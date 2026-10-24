@@ -2,17 +2,14 @@
 
 **Themes for Apache NetBeans 31** — each theme recolors the editor syntax highlighting **and** the whole IDE UI, packaged as a single ZIP you can import with one click.
 
- [`Catppuccin Mocha`](./themes/Catppuccin-Mocha-Full.zip) 
- 
- [`Catppuccin Frappe`](./themes/catppuccin-frappe-full.zip) 
- 
- [`Catppuccin Latte`](./themes/catppuccin-latte-full.zip) 
- 
- [`Catppuccin Macchiato`](./themes/catppuccin-macchiato-full.zip) 
- 
- [`Dracula`](./themes/dracula-full.zip)
-
- [`Nord`](./themes/nord-full.zip)
+| Theme | Variant | Look & Feel | Download |
+| --- | --- | --- | --- |
+| Catppuccin Mocha | dark | FlatLaf Dark | [catppuccin-mocha-full.zip](./themes/catppuccin-mocha-full.zip) |
+| Catppuccin Frappé | dark | FlatLaf Dark | [catppuccin-frappe-full.zip](./themes/catppuccin-frappe-full.zip) |
+| Catppuccin Macchiato | dark | FlatLaf Dark | [catppuccin-macchiato-full.zip](./themes/catppuccin-macchiato-full.zip) |
+| Catppuccin Latte | light | FlatLaf Light | [catppuccin-latte-full.zip](./themes/catppuccin-latte-full.zip) |
+| Dracula | dark | FlatLaf Dark | [dracula-full.zip](./themes/dracula-full.zip) |
+| Nord | dark | FlatLaf Dark | [nord-full.zip](./themes/nord-full.zip) |
 
 
 > More themes on the way
@@ -27,16 +24,22 @@
 
 Applies to every theme ZIP in this repo.
 
+
 ### Option A — import in the IDE (recommended)
 
-1. Download the theme ZIP (from the table above).
+1. Download the theme ZIP from the table above.
 2. Open **Tools → Options** (macOS: **NetBeans → Preferences…**).
-3. Click **Import…**, point it at the downloaded ZIP, tick the settings categories (at least *Fonts & Colors* and *Advanced*) and confirm.
-4. Restart the IDE.
-5. In **Options → Appearance → Look and Feel** select **FlatLaf Dark** (for dark themes), and in **Options → Fonts & Colors → Profile** select the theme's profile (e.g. `Catppuccin_Mocha`).
+3. Click **Import…**, pick the ZIP, tick **All** (the archive only contains
+   `config/Editors/` and `config/LookAndFeel/`), confirm and let the IDE restart.
+4. In **Options → Appearance → Look and Feel** select **FlatLaf Dark**
+   (or **FlatLaf Light** for Catppuccin Latte) and restart.
+5. In **Options → Fonts & Colors → Profile** select the theme's profile
+   (e.g. `Catppuccin_Mocha`).
 
-> Import overwrites the matching settings in your userdir. If you have your own profiles/colors, back them up first via **Tools → Options → Export**.
-
+> Import overwrites matching settings in your userdir, including any custom
+> `config/LookAndFeel/FlatLaf.properties` and the editor font settings of the
+> imported profile. Back up first via **Tools → Options → Export**.
+> Only one UI theme can be active at a time — installing another theme> replaces the previous one.
 
 ### Option B — editor only, keep your current UI
 
@@ -49,3 +52,5 @@ This is a hobby project, not affiliated with the Apache Software Foundation
 third-party color palettes — all rights to the palettes belong to their
 original authors; see [`THIRD_PARTY_NOTICES.md`](./THIRD_PARTY_NOTICES.md) for
 copyright notices and licenses.
+
+All themes were crearted by AI so they can be not 100% accurate, i only tested them briefly and they seem ok to me.
