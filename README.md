@@ -2,7 +2,13 @@
 
 **Themes for Apache NetBeans 31** — each theme recolors the editor syntax highlighting **and** the whole IDE UI, packaged as a single ZIP you can import with one click.
 
-| [`Catppuccin-Mocha-Full.zip`](./themes/Catppuccin-Mocha-Full.zip) |
+ [`Catppuccin-Mocha-Full.zip`](./themes/Catppuccin-Mocha-Full.zip) 
+ 
+ [`Catppuccin-Frappe-Full.zip`](./themes/catppuccin-frappe-full.zip) 
+ 
+ [`Catppuccin-Latte-Full.zip`](./themes/catppuccin-latte-full.zip) 
+ 
+ [`Catppuccin-Macchiato-Full.zip`](./themes/catppuccin-macchiato-full.zip) 
 
 > More themes on the way
 
