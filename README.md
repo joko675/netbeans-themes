@@ -27,9 +27,6 @@
 
 Applies to every theme ZIP in this repo.
 
-
-### Option A — import in the IDE (recommended)
-
 1. Download the theme ZIP from the table above.
 2. Open **Tools → Options** (macOS: **NetBeans → Preferences…**).
 3. Click **Import…**, pick the ZIP, tick **All** (the archive only contains
@@ -43,10 +40,6 @@ Applies to every theme ZIP in this repo.
 > `config/LookAndFeel/FlatLaf.properties` and the editor font settings of the
 > imported profile. Back up first via **Tools → Options → Export**.
 > Only one UI theme can be active at a time — installing another theme> replaces the previous one.
-
-### Option B — editor only, keep your current UI
-
-Want just the syntax colors? Copy only `config/Editors/` into your userdir and skip `config/LookAndFeel/`.
 
 ## License & Disclaimer
 
