@@ -2,12 +2,12 @@
 
 **Themes for Apache NetBeans 31** — each theme recolors the editor syntax highlighting **and** the whole IDE UI, packaged as a single ZIP you can import with one click.
 
-| Theme | Variant | Look & Feel | Download |
-| --- | --- | --- | --- |
-| Catppuccin Mocha | dark | FlatLaf Dark | [catppuccin-mocha-full.zip](./themes/catppuccin-mocha-full.zip) |
-| Catppuccin Frappé | dark | FlatLaf Dark | [catppuccin-frappe-full.zip](./themes/catppuccin-frappe-full.zip) |
-| Catppuccin Macchiato | dark | FlatLaf Dark | [catppuccin-macchiato-full.zip](./themes/catppuccin-macchiato-full.zip) |
-| Catppuccin Latte | light | FlatLaf Light | [catppuccin-latte-full.zip](./themes/catppuccin-latte-full.zip) |
+| Theme | Variant | Look & Feel | Download | Image |
+| --- | --- | --- | --- | --- |
+| Catppuccin Mocha | dark | FlatLaf Dark | [catppuccin-mocha-full.zip](./themes/catppuccin-mocha-full.zip) | ![catpuccin mocha image](https://github.com/joko675/netbeans-themes/blob/main/images/catpuccin-mocha.png)
+| Catppuccin Macchiato | dark | FlatLaf Dark | [catppuccin-macchiato-full.zip](./themes/catppuccin-macchiato-full.zip) | ![catpuccin macchiato image](https://github.com/joko675/netbeans-themes/blob/main/images/catpuccin-macchiato.png)
+| Catppuccin Frappé | dark | FlatLaf Dark | [catppuccin-frappe-full.zip](./themes/catppuccin-frappe-full.zip) | ![catpuccin frappe image](https://github.com/joko675/netbeans-themes/blob/main/images/catpuccin-frappe.png)
+| Catppuccin Latte | light | FlatLaf Light | [catppuccin-latte-full.zip](./themes/catppuccin-latte-full.zip) | ![catpuccin latte image](https://github.com/joko675/netbeans-themes/blob/main/images/catpuccin-latte.png)
 | Dracula | dark | FlatLaf Dark | [dracula-full.zip](./themes/dracula-full.zip) |
 | Nord | dark | FlatLaf Dark | [nord-full.zip](./themes/nord-full.zip) |
 
