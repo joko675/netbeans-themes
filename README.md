@@ -1,4 +1,4 @@
-# 🐈 netbeans-themes
+# netbeans-themes
 
 **Themes for Apache NetBeans 31** — each theme recolors the editor syntax highlighting **and** the whole IDE UI, packaged as a single ZIP you can import with one click.
 
@@ -14,14 +14,13 @@
 
 > More themes on the way
 
-## ✨ What these themes include
+## What these themes include
 
-- 🎨 **Full IDE theme** — not just editor tokens: tabs, the Projects/Files tree, buttons, scrollbars and the rest of the UI (via FlatLaf).
-- 🧩 **Editor color profile** for all languages, plus extra token overrides for specific languages (Java, …).
-- 📥 **One-click import** — every ZIP is in the standard NetBeans settings-export format (**Tools → Options → Import**).
-- 🪶 **Zero dependencies** — plain userdir configuration, no plugins (`.nbm`) to install.
+- **Full IDE theme** — not just editor tokens: tabs, the Projects/Files tree, buttons, scrollbars and the rest of the UI (via FlatLaf).
+- **Editor color profile** for all languages, plus extra token overrides for specific languages (Java, …).
+- **One-click import** — every ZIP is in the standard NetBeans settings-export format (**Tools → Options → Import**).
 
-## 🚀 Installation
+## Installation
 
 Applies to every theme ZIP in this repo.
 
@@ -33,7 +32,7 @@ Applies to every theme ZIP in this repo.
 4. Restart the IDE.
 5. In **Options → Appearance → Look and Feel** select **FlatLaf Dark** (for dark themes), and in **Options → Fonts & Colors → Profile** select the theme's profile (e.g. `Catppuccin_Mocha`).
 
-> ⚠️ Import overwrites the matching settings in your userdir. If you have your own profiles/colors, back them up first via **Tools → Options → Export**.
+> Import overwrites the matching settings in your userdir. If you have your own profiles/colors, back them up first via **Tools → Options → Export**.
 
 
 ### Option B — editor only, keep your current UI
