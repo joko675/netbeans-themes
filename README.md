@@ -10,6 +10,9 @@
 | Catppuccin Latte | light | FlatLaf Light | [catppuccin-latte-full.zip](./themes/catppuccin-latte-full.zip) | ![catpuccin latte image](https://github.com/joko675/netbeans-themes/blob/main/images/catpuccin-latte.png)
 | Dracula | dark | FlatLaf Dark | [dracula-full.zip](./themes/dracula-full.zip) | ![dracula image](https://github.com/joko675/netbeans-themes/blob/main/images/dracula.png)
 | Nord | dark | FlatLaf Dark | [nord-full.zip](./themes/nord-full.zip) | ![nord image](https://github.com/joko675/netbeans-themes/blob/main/images/nord.png)
+| Rosé Pine | dark | FlatLaf Dark | [nord-full.zip](./themes/rose-pine-full.zip) | ![rose pine image](https://github.com/joko675/netbeans-themes/blob/main/images/rose-pine.png)
+| Rosé Pine Moon | dark | FlatLaf Dark | [nord-full.zip](./themes/rose-pine-moon-full.zip) | ![rose pine moon image](https://github.com/joko675/netbeans-themes/blob/main/images/rose-pine-moon.png)
+| Rosé Pine Dawn | light | FlatLaf Light | [nord-full.zip](./themes/rose-pine-dawn-full.zip) | ![rose pine dawn image](https://github.com/joko675/netbeans-themes/blob/main/images/rose-pine-dawn.png)
 
 
 > More themes on the way
