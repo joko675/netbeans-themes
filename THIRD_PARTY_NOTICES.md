@@ -8,12 +8,14 @@ All rights to the palettes belong to their original authors.
 | Catppuccin (Mocha, Latte, Frappé, Macchiato) | github.com/catppuccin/catppuccin | © 2021 Catppuccin | MIT |
 | Dracula | github.com/dracula/dracula-theme | © 2023 Dracula Theme | MIT |
 | Nord | github.com/nordtheme/nord | © 2016-present Sven Greb | MIT |
+| Rosé Pine | github.com/rose-pine | © 2020-present Rosé Pine | MIT |
 
 ## MIT license — applies to all palettes above
 
 Copyright (c) 2021 Catppuccin
 Copyright (c) 2023 Dracula Theme
 Copyright (c) 2016-present Sven Greb <development@svengreb.de>
+Copyright (c) 2020 Rosé Pine
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
