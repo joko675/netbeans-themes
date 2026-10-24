@@ -12,6 +12,9 @@
  
  [`Dracula`](./themes/dracula-full.zip)
 
+ [`Nord`](./themes/nord-full.zip)
+
+
 > More themes on the way
 
 ## What these themes include
