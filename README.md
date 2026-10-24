@@ -8,8 +8,8 @@
 | Catppuccin Macchiato | dark | FlatLaf Dark | [catppuccin-macchiato-full.zip](./themes/catppuccin-macchiato-full.zip) | ![catpuccin macchiato image](https://github.com/joko675/netbeans-themes/blob/main/images/catpuccin-macchiato.png)
 | Catppuccin Frappé | dark | FlatLaf Dark | [catppuccin-frappe-full.zip](./themes/catppuccin-frappe-full.zip) | ![catpuccin frappe image](https://github.com/joko675/netbeans-themes/blob/main/images/catpuccin-frappe.png)
 | Catppuccin Latte | light | FlatLaf Light | [catppuccin-latte-full.zip](./themes/catppuccin-latte-full.zip) | ![catpuccin latte image](https://github.com/joko675/netbeans-themes/blob/main/images/catpuccin-latte.png)
-| Dracula | dark | FlatLaf Dark | [dracula-full.zip](./themes/dracula-full.zip) |
-| Nord | dark | FlatLaf Dark | [nord-full.zip](./themes/nord-full.zip) |
+| Dracula | dark | FlatLaf Dark | [dracula-full.zip](./themes/dracula-full.zip) | ![dracula image](https://github.com/joko675/netbeans-themes/blob/main/images/dracula.png)
+| Nord | dark | FlatLaf Dark | [nord-full.zip](./themes/nord-full.zip) | ![nord image](https://github.com/joko675/netbeans-themes/blob/main/images/nord.png)
 
 
 > More themes on the way
